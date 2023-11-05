@@ -11,7 +11,7 @@
 
 # Implementasi Pada Riset Penelitian
    1.   Metode
-    - You Only Look Once (YOLO)
+You Only Look Once (YOLO)
         YOLO (You Only Look Once) adalah sebuah pendekatan populer dalam deteksi objek dalam pengolahan gambar dan video. YOLO adalah metode yang cepat dan efisien untuk mendeteksi objek dalam berbagai konteks, dan telah banyak digunakan dalam aplikasi seperti kendaraan otonom, pemantauan keamanan, dan pengenalan objek dalam real-time.
         
 2.  Metodologi
