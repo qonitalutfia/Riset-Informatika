@@ -7,7 +7,7 @@
 
 2. Metodologi
     - [ANALISIS SYSTEM USABILITY APLIKASI ARtomotif BERBASIS ANDROID](https://ejournal.itn.ac.id/index.php/jati/article/view/6344/3711)
-    - [PENGEMBANGAN APLIKASI MOBILE LEARNING BERBASIS ANDROID UNTUK MENINGKATKAN KETERAMPILAN PEMROGRAMAN PADA MAHASISWA TEKNIK INFORMATIKA](https://sostech.greenvest.co.id/index.php/sostech/article/view/638/1015)
+    - [Penerapan Rest Api Dalam Perancangan Aplikasi Reservasi Perawatan dan Penitipan Hewan Berbasis Android]([https://sostech.greenvest.co.id/index.php/sostech/article/view/638/1015](http://djournals.com/klik/article/view/1262/773))
 
 # Implementasi Pada Riset Penelitian
    1.   Metode
