@@ -6,7 +6,8 @@
     - [Implementasi  Metode  Fuzzy  K-Nearest  Neighbor  dalam Klasifikasi  Penyakit Demam Berdarah](https://jurnal.ilmubersama.com/index.php/hello_world/article/view/253/173)
 
 2. Metodologi
-    - [ANALISIS SYSTEM USABILITY APLIKASI ARtomotif BERBASIS ANDROID](https://ejournal.itn.ac.id/index.php/jati/article/view/6344/3711)
+    - [Sistem Pendukung Keputusan Penentuan Jenis Tanaman Pangan Menggunakan Metode Multifactor Evaluation Process
+(MFEP)](https://journals.upi-yai.ac.id/index.php/ikraith-informatika/article/download/2227/1637)
     - [Penerapan Rest Api Dalam Perancangan Aplikasi Reservasi Perawatan dan Penitipan Hewan Berbasis Android](http://djournals.com/klik/article/view/1262/773)
 
 # Implementasi Pada Riset Penelitian
